@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in a Solidity Ownable contract. The `transferOwnership` function lacks comprehensive error handling.  The provided solution adds more robust checks and error handling to prevent unexpected behavior and improve the contract's reliability.
